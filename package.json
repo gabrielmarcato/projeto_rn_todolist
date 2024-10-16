@@ -2,6 +2,11 @@
   "name": "projeto_rn_todolist",
   "version": "1.0.0",
   "main": "expo/AppEntry.js",
+  "author": {
+    "name": "Gabriel Oliveira Marcato",
+    "url": "https://www.linkedin.com/in/gabrielomarcato/",
+    "email": "gabrielomarcato@gmail.com"
+  },
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
@@ -12,7 +17,8 @@
     "expo": "~51.0.28",
     "expo-status-bar": "~1.12.1",
     "react": "18.2.0",
-    "react-native": "0.74.5"
+    "react-native": "0.74.5",
+    "expo-checkbox": "~3.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
